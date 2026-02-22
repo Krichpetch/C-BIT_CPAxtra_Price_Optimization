@@ -1,0 +1,15 @@
+date,day_of_week,day,is_payday,demand_score,strategy
+2025-08-14,Thursday,14,❌ No,0.9950981649600413,Regular Trading
+2025-08-15,Friday,15,❌ No,0.9914963225474188,Regular Trading
+2025-08-16,Saturday,16,❌ No,0.99231323525956,Regular Trading
+2025-08-17,Sunday,17,❌ No,0.992568318675604,Regular Trading
+2025-08-18,Monday,18,❌ No,0.9926877881236247,Regular Trading
+2025-08-19,Tuesday,19,❌ No,0.998825934628686,Regular Trading
+2025-08-20,Wednesday,20,❌ No,1.0366331715712223,Regular Trading
+2025-08-21,Thursday,21,❌ No,0.9950981649600413,Regular Trading
+2025-08-22,Friday,22,❌ No,0.9914963225474188,Regular Trading
+2025-08-23,Saturday,23,❌ No,0.99231323525956,Regular Trading
+2025-08-24,Sunday,24,❌ No,0.992568318675604,Regular Trading
+2025-08-25,Monday,25,✅ YES,1.1088345604599859,💰 HIGH PRIORITY: Maximize Availability & Price
+2025-08-26,Tuesday,26,✅ YES,1.1156908843348303,💰 HIGH PRIORITY: Maximize Availability & Price
+2025-08-27,Wednesday,27,✅ YES,1.157921655639698,💰 HIGH PRIORITY: Maximize Availability & Price
